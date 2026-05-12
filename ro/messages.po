@@ -1594,11 +1594,11 @@ msgstr "Ești sigur că plasezi oferta?"
 msgid "Are you sure you want to promote this member to commander?"
 msgstr "Ești sigur că vrei să promovezi acest membru la comandant?"
 
-#: src/pages/market/index.tsx:170
+#: src/pages/market/index.tsx:174
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Ești sigur că vrei să elimini toate comenzile de cumpărare?"
 
-#: src/pages/market/index.tsx:230
+#: src/pages/market/index.tsx:236
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Ești sigur că vrei să elimini toate comenzile de vânzare?"
 
@@ -1699,7 +1699,7 @@ msgstr "Autentificarea a eșuat. Te rugăm să încerci din nou."
 msgid "Auto approval"
 msgstr "Aprobare automată"
 
-#: src/components/_user/kits/KitsPopover.tsx:223
+#: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
 
@@ -1862,6 +1862,10 @@ msgstr "Lupte câștigate"
 msgid "Become a Candidate"
 msgstr "Deveniți candidat"
 
+#: src/components/_user/kits/KitsPopover.tsx:247
+msgid "Best"
+msgstr ""
+
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
 msgstr "Mai bine decât nimic, nu?"
@@ -1999,7 +2003,7 @@ msgstr "Cumpără obiecte în valoare de <0>{count}</0> bani de la piață"
 msgid "Buy Items"
 msgstr "Cumpără obiecte"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:50
+#: src/components/_economy/itemTrading/TradingOrders.tsx:51
 #: src/pages/market/index.tsx:135
 msgid "Buy orders"
 msgstr "Comenzi de cumpărare"
@@ -3646,7 +3650,7 @@ msgstr "Primești mai multe skinuri la o reducere de 30%!"
 msgid "Get supporter plan"
 msgstr "Obține planul Susținător"
 
-#: src/components/_user/kits/KitsPopover.tsx:211
+#: src/components/_user/kits/KitsPopover.tsx:215
 msgid "Get Supporter Plan"
 msgstr ""
 
@@ -5156,7 +5160,7 @@ msgstr "Niciun skin echipat."
 msgid "No sworn enemy"
 msgstr "Niciun inamic principal"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:43
+#: src/components/_economy/itemTrading/TradingOrders.tsx:44
 #: src/pages/market/index.tsx:127
 msgid "No trading orders"
 msgstr "Fără comenzi de tranzacționare"
@@ -6095,8 +6099,8 @@ msgstr "Elimină pe <0/> din consiliul partidului"
 msgid "Remove a member from the party council"
 msgstr "Elimină un membru din consiliul partidului"
 
-#: src/pages/market/index.tsx:174
-#: src/pages/market/index.tsx:234
+#: src/pages/market/index.tsx:178
+#: src/pages/market/index.tsx:240
 msgid "Remove all"
 msgstr "Elimină tot"
 
@@ -6371,7 +6375,7 @@ msgstr "Nu mai ai viață?"
 msgid "Save"
 msgstr "Salvează"
 
-#: src/components/_user/kits/KitsPopover.tsx:197
+#: src/components/_user/kits/KitsPopover.tsx:201
 msgid "Save your equipment kits"
 msgstr ""
 
@@ -6480,8 +6484,8 @@ msgstr "Vinde-l, trebuie să cumperi mai multe cutii!"
 msgid "Sell Items"
 msgstr "Vinde obiecte"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:77
-#: src/pages/market/index.tsx:183
+#: src/components/_economy/itemTrading/TradingOrders.tsx:84
+#: src/pages/market/index.tsx:187
 msgid "Sell orders"
 msgstr "Comenzi de vânzare"
 
@@ -6939,7 +6943,7 @@ msgstr "Plan Susținător"
 msgid "Supporter Plan"
 msgstr "Plan Susținător"
 
-#: src/components/_user/kits/KitsPopover.tsx:200
+#: src/components/_user/kits/KitsPopover.tsx:204
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
 msgstr ""
 
@@ -7312,13 +7316,13 @@ msgstr "total"
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:116
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:153
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:180
-#: src/components/_economy/itemTrading/TradingOrders.tsx:66
-#: src/components/_economy/itemTrading/TradingOrders.tsx:93
+#: src/components/_economy/itemTrading/TradingOrders.tsx:55
+#: src/components/_economy/itemTrading/TradingOrders.tsx:88
 #: src/components/_economy/work/WorkChart.tsx:199
 #: src/components/_military/mu/MuMemberList.tsx:190
 #: src/components/_user/user/WealthPanel.tsx:28
-#: src/pages/market/index.tsx:153
-#: src/pages/market/index.tsx:202
+#: src/pages/market/index.tsx:139
+#: src/pages/market/index.tsx:191
 msgid "Total"
 msgstr "Total"
 
@@ -7980,6 +7984,10 @@ msgstr "Angajați"
 #: src/components/_other/tour/tuto.frontConfig.tsx:58
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Munca pentru alții e o cale bună de a câștiga niște bani la început."
+
+#: src/components/_user/kits/KitsPopover.tsx:257
+msgid "Worst"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"

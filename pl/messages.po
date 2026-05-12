@@ -1596,11 +1596,11 @@ msgstr ""
 msgid "Are you sure you want to promote this member to commander?"
 msgstr ""
 
-#: src/pages/market/index.tsx:170
+#: src/pages/market/index.tsx:174
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Czy na pewno chcesz usunąć wszystkie zamówienia kupna?"
 
-#: src/pages/market/index.tsx:230
+#: src/pages/market/index.tsx:236
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Czy na pewno chcesz usunąć wszystkie zamówienia sprzedaży?"
 
@@ -1701,7 +1701,7 @@ msgstr ""
 msgid "Auto approval"
 msgstr "Automatyczne zatwierdzanie"
 
-#: src/components/_user/kits/KitsPopover.tsx:223
+#: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
 
@@ -1864,6 +1864,10 @@ msgstr "Wygrane Bitwy"
 msgid "Become a Candidate"
 msgstr "Zostań kandydatem"
 
+#: src/components/_user/kits/KitsPopover.tsx:247
+msgid "Best"
+msgstr ""
+
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
 msgstr "Lepsze niż nic, prawda?"
@@ -2001,7 +2005,7 @@ msgstr "Kup za <0>{count}</0> pieniędzy na rynku"
 msgid "Buy Items"
 msgstr "Kup przedmioty"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:50
+#: src/components/_economy/itemTrading/TradingOrders.tsx:51
 #: src/pages/market/index.tsx:135
 msgid "Buy orders"
 msgstr "Zamówienia kupna"
@@ -3648,7 +3652,7 @@ msgstr ""
 msgid "Get supporter plan"
 msgstr "Zostań supporterem"
 
-#: src/components/_user/kits/KitsPopover.tsx:211
+#: src/components/_user/kits/KitsPopover.tsx:215
 msgid "Get Supporter Plan"
 msgstr ""
 
@@ -5158,7 +5162,7 @@ msgstr ""
 msgid "No sworn enemy"
 msgstr "Brak zaprzysięgłego wroga"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:43
+#: src/components/_economy/itemTrading/TradingOrders.tsx:44
 #: src/pages/market/index.tsx:127
 msgid "No trading orders"
 msgstr "Brak zamówień handlowych"
@@ -6097,8 +6101,8 @@ msgstr ""
 msgid "Remove a member from the party council"
 msgstr ""
 
-#: src/pages/market/index.tsx:174
-#: src/pages/market/index.tsx:234
+#: src/pages/market/index.tsx:178
+#: src/pages/market/index.tsx:240
 msgid "Remove all"
 msgstr "Usuń wszystko"
 
@@ -6373,7 +6377,7 @@ msgstr "Mało zdrowia?"
 msgid "Save"
 msgstr "Zapisz"
 
-#: src/components/_user/kits/KitsPopover.tsx:197
+#: src/components/_user/kits/KitsPopover.tsx:201
 msgid "Save your equipment kits"
 msgstr ""
 
@@ -6482,8 +6486,8 @@ msgstr "Sprzedaj to, musisz kupić więcej skrzynek!"
 msgid "Sell Items"
 msgstr "Sprzedaj przedmioty"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:77
-#: src/pages/market/index.tsx:183
+#: src/components/_economy/itemTrading/TradingOrders.tsx:84
+#: src/pages/market/index.tsx:187
 msgid "Sell orders"
 msgstr "Zamówienia sprzedaży"
 
@@ -6941,7 +6945,7 @@ msgstr "Plan Wspierającego"
 msgid "Supporter Plan"
 msgstr "Plan Wspierającego"
 
-#: src/components/_user/kits/KitsPopover.tsx:200
+#: src/components/_user/kits/KitsPopover.tsx:204
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
 msgstr ""
 
@@ -7314,13 +7318,13 @@ msgstr "łącznie"
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:116
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:153
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:180
-#: src/components/_economy/itemTrading/TradingOrders.tsx:66
-#: src/components/_economy/itemTrading/TradingOrders.tsx:93
+#: src/components/_economy/itemTrading/TradingOrders.tsx:55
+#: src/components/_economy/itemTrading/TradingOrders.tsx:88
 #: src/components/_economy/work/WorkChart.tsx:199
 #: src/components/_military/mu/MuMemberList.tsx:190
 #: src/components/_user/user/WealthPanel.tsx:28
-#: src/pages/market/index.tsx:153
-#: src/pages/market/index.tsx:202
+#: src/pages/market/index.tsx:139
+#: src/pages/market/index.tsx:191
 msgid "Total"
 msgstr "Razem"
 
@@ -7982,6 +7986,10 @@ msgstr "Pracownicy"
 #: src/components/_other/tour/tuto.frontConfig.tsx:58
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Praca dla innych to świetny sposób na zarabianie pieniędzy na początku."
+
+#: src/components/_user/kits/KitsPopover.tsx:257
+msgid "Worst"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"

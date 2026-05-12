@@ -1596,11 +1596,11 @@ msgstr "Biztosan le akarod adni ezt az ajánlatot?"
 msgid "Are you sure you want to promote this member to commander?"
 msgstr "Biztosan elő akarod léptetni ezt a tagot parancsnokká?"
 
-#: src/pages/market/index.tsx:170
+#: src/pages/market/index.tsx:174
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Biztosan törölni akarod az összes vételi megbízást?"
 
-#: src/pages/market/index.tsx:230
+#: src/pages/market/index.tsx:236
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Biztosan törölni akarod az összes eladási megbízást?"
 
@@ -1701,7 +1701,7 @@ msgstr "Hitelesítés sikertelen. Kérlek, próbáld újra."
 msgid "Auto approval"
 msgstr "Automatikus jóváhagyás"
 
-#: src/components/_user/kits/KitsPopover.tsx:223
+#: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
 
@@ -1864,6 +1864,10 @@ msgstr "Nyert csaták"
 msgid "Become a Candidate"
 msgstr "Jelöltté válás"
 
+#: src/components/_user/kits/KitsPopover.tsx:247
+msgid "Best"
+msgstr ""
+
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
 msgstr "Jobb, mint a semmi, nem?"
@@ -2001,7 +2005,7 @@ msgstr "Vásárolj <0>{count}</0> pénzért a piacon"
 msgid "Buy Items"
 msgstr "Tárgyak vásárlása"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:50
+#: src/components/_economy/itemTrading/TradingOrders.tsx:51
 #: src/pages/market/index.tsx:135
 msgid "Buy orders"
 msgstr "Vételi ajánlatok"
@@ -3648,7 +3652,7 @@ msgstr "Szerezz több skint egyszerre 30% kedvezménnyel!"
 msgid "Get supporter plan"
 msgstr "Támogatói csomag beszerzése"
 
-#: src/components/_user/kits/KitsPopover.tsx:211
+#: src/components/_user/kits/KitsPopover.tsx:215
 msgid "Get Supporter Plan"
 msgstr ""
 
@@ -5158,7 +5162,7 @@ msgstr "Nincs felszerelt kinézet"
 msgid "No sworn enemy"
 msgstr "Nincs esküdt ellenség"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:43
+#: src/components/_economy/itemTrading/TradingOrders.tsx:44
 #: src/pages/market/index.tsx:127
 msgid "No trading orders"
 msgstr "Nincs kereskedelmi megbízás"
@@ -6097,8 +6101,8 @@ msgstr "<0/> eltávolítása a párt tanácsból"
 msgid "Remove a member from the party council"
 msgstr "Egy tag eltávolítása a párt tanácsból"
 
-#: src/pages/market/index.tsx:174
-#: src/pages/market/index.tsx:234
+#: src/pages/market/index.tsx:178
+#: src/pages/market/index.tsx:240
 msgid "Remove all"
 msgstr "Összes eltávolítása"
 
@@ -6373,7 +6377,7 @@ msgstr "Kevés az életerőd?"
 msgid "Save"
 msgstr "Mentés"
 
-#: src/components/_user/kits/KitsPopover.tsx:197
+#: src/components/_user/kits/KitsPopover.tsx:201
 msgid "Save your equipment kits"
 msgstr ""
 
@@ -6482,8 +6486,8 @@ msgstr "Add el, több ládát kell venned a játékhoz!"
 msgid "Sell Items"
 msgstr "Tárgyak eladása"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:77
-#: src/pages/market/index.tsx:183
+#: src/components/_economy/itemTrading/TradingOrders.tsx:84
+#: src/pages/market/index.tsx:187
 msgid "Sell orders"
 msgstr "Eladási megbízások"
 
@@ -6941,7 +6945,7 @@ msgstr "Támogató terv"
 msgid "Supporter Plan"
 msgstr "Támogató Terv"
 
-#: src/components/_user/kits/KitsPopover.tsx:200
+#: src/components/_user/kits/KitsPopover.tsx:204
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
 msgstr ""
 
@@ -7314,13 +7318,13 @@ msgstr "összesen"
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:116
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:153
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:180
-#: src/components/_economy/itemTrading/TradingOrders.tsx:66
-#: src/components/_economy/itemTrading/TradingOrders.tsx:93
+#: src/components/_economy/itemTrading/TradingOrders.tsx:55
+#: src/components/_economy/itemTrading/TradingOrders.tsx:88
 #: src/components/_economy/work/WorkChart.tsx:199
 #: src/components/_military/mu/MuMemberList.tsx:190
 #: src/components/_user/user/WealthPanel.tsx:28
-#: src/pages/market/index.tsx:153
-#: src/pages/market/index.tsx:202
+#: src/pages/market/index.tsx:139
+#: src/pages/market/index.tsx:191
 msgid "Total"
 msgstr "Összesen"
 
@@ -7982,6 +7986,10 @@ msgstr "Munkások"
 #: src/components/_other/tour/tuto.frontConfig.tsx:58
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Másoknak dolgozni remek módja a pénzkeresésnek kezdéskor."
+
+#: src/components/_user/kits/KitsPopover.tsx:257
+msgid "Worst"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"

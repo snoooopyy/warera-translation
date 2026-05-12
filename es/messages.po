@@ -1596,11 +1596,11 @@ msgstr "¿Estás seguro de que querés realizar esta oferta?"
 msgid "Are you sure you want to promote this member to commander?"
 msgstr "¿Estás seguro de que quieres ascender a este miembro a comandante?"
 
-#: src/pages/market/index.tsx:170
+#: src/pages/market/index.tsx:174
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "¿Estás seguro de que quieres eliminar todas las órdenes de compra?"
 
-#: src/pages/market/index.tsx:230
+#: src/pages/market/index.tsx:236
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "¿Estás seguro de que quieres eliminar todas las órdenes de venta?"
 
@@ -1701,7 +1701,7 @@ msgstr "Autenticación fallida. Por favor, intenta de nuevo."
 msgid "Auto approval"
 msgstr "Aprobación automática"
 
-#: src/components/_user/kits/KitsPopover.tsx:223
+#: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
 
@@ -1864,6 +1864,10 @@ msgstr "Batallas ganadas"
 msgid "Become a Candidate"
 msgstr "Convertirse en candidato"
 
+#: src/components/_user/kits/KitsPopover.tsx:247
+msgid "Best"
+msgstr ""
+
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
 msgstr "Mejor que nada, ¿no?"
@@ -2001,7 +2005,7 @@ msgstr "Compra por <0>{count}</0> de dinero en el mercado"
 msgid "Buy Items"
 msgstr "Comprar artículos"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:50
+#: src/components/_economy/itemTrading/TradingOrders.tsx:51
 #: src/pages/market/index.tsx:135
 msgid "Buy orders"
 msgstr "Órdenes de compra"
@@ -3648,7 +3652,7 @@ msgstr "¡Obten varias skins a la vez con un descuento del 30%!"
 msgid "Get supporter plan"
 msgstr "Obtener plan de supporter"
 
-#: src/components/_user/kits/KitsPopover.tsx:211
+#: src/components/_user/kits/KitsPopover.tsx:215
 msgid "Get Supporter Plan"
 msgstr ""
 
@@ -5158,7 +5162,7 @@ msgstr "Sin skins equipadas"
 msgid "No sworn enemy"
 msgstr "Sin enemigo principal"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:43
+#: src/components/_economy/itemTrading/TradingOrders.tsx:44
 #: src/pages/market/index.tsx:127
 msgid "No trading orders"
 msgstr "Sin órdenes de intercambio"
@@ -6097,8 +6101,8 @@ msgstr "Remover <0/> del partido del consejo"
 msgid "Remove a member from the party council"
 msgstr "Remover un miembro del partido del consejo"
 
-#: src/pages/market/index.tsx:174
-#: src/pages/market/index.tsx:234
+#: src/pages/market/index.tsx:178
+#: src/pages/market/index.tsx:240
 msgid "Remove all"
 msgstr "Eliminar todo"
 
@@ -6373,7 +6377,7 @@ msgstr "¿Te queda poca salud?"
 msgid "Save"
 msgstr "Guardar"
 
-#: src/components/_user/kits/KitsPopover.tsx:197
+#: src/components/_user/kits/KitsPopover.tsx:201
 msgid "Save your equipment kits"
 msgstr ""
 
@@ -6482,8 +6486,8 @@ msgstr "¡Véndelo, necesitas comprar más cajas!"
 msgid "Sell Items"
 msgstr "Vender artículos"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:77
-#: src/pages/market/index.tsx:183
+#: src/components/_economy/itemTrading/TradingOrders.tsx:84
+#: src/pages/market/index.tsx:187
 msgid "Sell orders"
 msgstr "Órdenes de venta"
 
@@ -6941,7 +6945,7 @@ msgstr "Plan Supporter"
 msgid "Supporter Plan"
 msgstr "Plan Supporter"
 
-#: src/components/_user/kits/KitsPopover.tsx:200
+#: src/components/_user/kits/KitsPopover.tsx:204
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
 msgstr ""
 
@@ -7314,13 +7318,13 @@ msgstr "total"
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:116
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:153
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:180
-#: src/components/_economy/itemTrading/TradingOrders.tsx:66
-#: src/components/_economy/itemTrading/TradingOrders.tsx:93
+#: src/components/_economy/itemTrading/TradingOrders.tsx:55
+#: src/components/_economy/itemTrading/TradingOrders.tsx:88
 #: src/components/_economy/work/WorkChart.tsx:199
 #: src/components/_military/mu/MuMemberList.tsx:190
 #: src/components/_user/user/WealthPanel.tsx:28
-#: src/pages/market/index.tsx:153
-#: src/pages/market/index.tsx:202
+#: src/pages/market/index.tsx:139
+#: src/pages/market/index.tsx:191
 msgid "Total"
 msgstr "Total"
 
@@ -7982,6 +7986,10 @@ msgstr "Trabajadores"
 #: src/components/_other/tour/tuto.frontConfig.tsx:58
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Trabajar para otros es una gran manera de ganar dinero al empezar."
+
+#: src/components/_user/kits/KitsPopover.tsx:257
+msgid "Worst"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"
