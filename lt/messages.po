@@ -98,7 +98,7 @@ msgstr "{0} valandos"
 
 #. placeholder {0}: data.outbidByMuName
 #. placeholder {1}: data.newPerK
-#: src/components/_user/notification/notification.frontConfig.tsx:1640
+#: src/components/_user/notification/notification.frontConfig.tsx:1645
 msgid "{0} outbid you at ${1}/K"
 msgstr ""
 
@@ -188,7 +188,7 @@ msgid "/day"
 msgstr "/dieną"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:378
-#: src/components/_user/notification/notification.frontConfig.tsx:1069
+#: src/components/_user/notification/notification.frontConfig.tsx:1074
 msgid "<0/> applied to join <1/>"
 msgstr "<0/> pateikė prašymą prisijungti prie <1/>"
 
@@ -198,21 +198,21 @@ msgstr "<0/> pateikė prašymą prisijungti prie <1/>"
 msgid "<0/> at <1>{0}</1> wage.{1}"
 msgstr "<0/> už <1>{0}</1> atlyginimą.{1}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1821
+#: src/components/_user/notification/notification.frontConfig.tsx:1826
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1828
+#: src/components/_user/notification/notification.frontConfig.tsx:1833
 msgid "<0/> bought your {assetLabel}!"
 msgstr ""
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
-#: src/components/_user/notification/notification.frontConfig.tsx:1475
+#: src/components/_user/notification/notification.frontConfig.tsx:1480
 msgid "<0/> bought your banner{0} as a gift for <1/>!"
 msgstr ""
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
-#: src/components/_user/notification/notification.frontConfig.tsx:1483
+#: src/components/_user/notification/notification.frontConfig.tsx:1488
 msgid "<0/> bought your banner{0}!"
 msgstr ""
 
@@ -226,7 +226,7 @@ msgstr ""
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> perka jūsų regioną <1/> už <2>{0}</2>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1560
+#: src/components/_user/notification/notification.frontConfig.tsx:1565
 msgid "<0/> cancelled the contract."
 msgstr ""
 
@@ -234,7 +234,7 @@ msgstr ""
 msgid "<0/> commented on your article <1/>"
 msgstr "<0/> pakomentavo jūsų straipsnį <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1535
+#: src/components/_user/notification/notification.frontConfig.tsx:1540
 msgid "<0/> completed a contract, you earned <1/>"
 msgstr ""
 
@@ -255,7 +255,7 @@ msgid "<0/> defended in <1/>"
 msgstr "<0/> gynėsi <1/>"
 
 #. placeholder {0}: data.amount
-#: src/components/_user/notification/notification.frontConfig.tsx:1143
+#: src/components/_user/notification/notification.frontConfig.tsx:1148
 msgid "<0/> donated <1>{0}</1> to <2/>"
 msgstr "<0/> paaukojo <1>{0}</1> žaidėjui <2/>"
 
@@ -284,21 +284,21 @@ msgstr "<0/> finansavo sukilimą <1/> už <2/> prieš <3/>"
 msgid "<0/> gifted a sub to <1/>"
 msgstr "<0/> padovanojo prenumeratą <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1006
+#: src/components/_user/notification/notification.frontConfig.tsx:1011
 msgid "<0/> gifted you a premium subscription!"
 msgstr "<0/> padovanojo tau prenumeratą!"
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1444
+#: src/components/_user/notification/notification.frontConfig.tsx:1449
 msgid "<0/> gifted you the banner \"{0}\"!"
 msgstr "<0/> padovanojo tau banerį „{0}“!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1711
+#: src/components/_user/notification/notification.frontConfig.tsx:1716
 msgid "<0/> gifted you the skin \"{skinTitle}\"!"
 msgstr "<0/> padovanojo tau \"{skinTitle}\" skiną!"
 
 #. placeholder {0}: data.skinPackTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1774
+#: src/components/_user/notification/notification.frontConfig.tsx:1779
 msgid "<0/> gifted you the skin pack \"{0}\"!"
 msgstr "<0/> padovanojo tau skinų rinkinį „{0}“!"
 
@@ -306,7 +306,7 @@ msgstr "<0/> padovanojo tau skinų rinkinį „{0}“!"
 msgid "<0/> got fee back"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1297
+#: src/components/_user/notification/notification.frontConfig.tsx:1302
 msgid "<0/> has been created, it gonna start soon!"
 msgstr "<0/> sukurtas, netrukus prasidės!"
 
@@ -351,7 +351,7 @@ msgstr "<0/> išlaisvino <1/> ir grąžino ją <2/>"
 msgid "<0/> has started a revolution in <1/>"
 msgstr "<0/> sukėlė revoliuciją šalyje <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1310
+#: src/components/_user/notification/notification.frontConfig.tsx:1315
 msgid "<0/> has started! Let the battles begin!"
 msgstr "<0/> prasidėjo! Tegul prasideda mūšiai!"
 
@@ -426,7 +426,7 @@ msgstr "<0/> patiko tavo žinutė <1/>"
 msgid "<0/> made peace with <1/>"
 msgstr "<0/> sudarė taiką su <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1185
+#: src/components/_user/notification/notification.frontConfig.tsx:1190
 msgid "<0/> mentioned you in a message <1/>"
 msgstr "<0/> paminėjo jus žinutėje <1/>"
 
@@ -447,7 +447,7 @@ msgid "<0/> published a new article"
 msgstr "<0/> paskelbė naują straipsnį"
 
 #. placeholder {0}: data.level
-#: src/components/_user/notification/notification.frontConfig.tsx:1170
+#: src/components/_user/notification/notification.frontConfig.tsx:1175
 msgid "<0/> reached level {0}!"
 msgstr "<0/> pasiekė {0} lygį!"
 
@@ -502,7 +502,7 @@ msgstr "<0/> paskirtas į <1>{0}</1> pareigas"
 msgid "<0/> won round {0}"
 msgstr "<0/> laimėjo {0}-ą raundą"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1518
+#: src/components/_user/notification/notification.frontConfig.tsx:1523
 msgid "<0/> won the auction on a contract with <1/>"
 msgstr ""
 
@@ -601,7 +601,7 @@ msgid "<0>{0}</0> Defense bonus"
 msgstr "<0>{0}</0> gynybos bonusas"
 
 #. placeholder {0}: data.acceptanceFeeReturned
-#: src/components/_user/notification/notification.frontConfig.tsx:1581
+#: src/components/_user/notification/notification.frontConfig.tsx:1586
 msgid "<0>{0}</0> fee returned to MU."
 msgstr ""
 
@@ -678,7 +678,7 @@ msgid "<0>{0}</0> ground are required to win a round, points are gained every ti
 msgstr "Norint laimėti raundą, reikia <0>{0}</0> taškų, kurie gaunami kiekvieną taktą"
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1573
+#: src/components/_user/notification/notification.frontConfig.tsx:1578
 msgid "<0>{0}</0> returned to <1/>."
 msgstr ""
 
@@ -1268,7 +1268,7 @@ msgstr "Priimtas"
 msgid "Access war"
 msgstr "Atverti karą"
 
-#: src/components/_political/country/CountryHeader.tsx:74
+#: src/components/_political/country/CountryHeader.tsx:75
 #: src/components/_user/user/UserHeader.tsx:165
 #: src/pages/country/[countryId]/account.tsx:43
 #: src/pages/country/[countryId]/index.tsx:341
@@ -1337,7 +1337,7 @@ msgstr "Papildoma kaina"
 msgid "Admin"
 msgstr "Administratorius"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2075
+#: src/components/_user/notification/notification.frontConfig.tsx:2080
 msgid "Admin notification"
 msgstr "Administratoriaus pranešimas"
 
@@ -1499,7 +1499,7 @@ msgid "Amount of companies you can own"
 msgstr "Įmonių, kurias galite turėti, skaičius"
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1553
+#: src/components/_user/notification/notification.frontConfig.tsx:1558
 msgid "An admin cancelled the contract. <0>{0}</0> returned to <1/>."
 msgstr ""
 
@@ -1564,6 +1564,10 @@ msgstr "Patvirtinta"
 msgid "Arcane Boots"
 msgstr "Arcane Batai"
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:216
+msgid "Are you sure you want to consume pill?"
+msgstr ""
+
 #: src/components/_military/mu/MuMemberList.tsx:154
 msgid "Are you sure you want to demote this commander?"
 msgstr "Ar tikrai norite pažeminti šį vadą?"
@@ -1584,7 +1588,7 @@ msgstr "Ar tikrai nori palikti kongresą?"
 msgid "Are you sure you want to leave the government?"
 msgstr "Ar tikrai nori pasitraukti iš vyriausybės?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:131
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:134
 msgid "Are you sure you want to place this bid?"
 msgstr ""
 
@@ -1626,7 +1630,7 @@ msgstr "Šarvai"
 msgid "Article ID"
 msgstr "Straipsnio ID"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1936
+#: src/components/_user/notification/notification.frontConfig.tsx:1941
 msgid "Article liked"
 msgstr "Straipsnis pamėgtas"
 
@@ -1634,8 +1638,8 @@ msgstr "Straipsnis pamėgtas"
 msgid "Article Tip"
 msgstr "Arbatpinigiai už straipsnį"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1938
-#: src/components/_user/notification/notification.frontConfig.tsx:1939
+#: src/components/_user/notification/notification.frontConfig.tsx:1943
+#: src/components/_user/notification/notification.frontConfig.tsx:1944
 msgid "Article tipped"
 msgstr "Straipsnis paremtas"
 
@@ -1656,7 +1660,7 @@ msgstr "Bent jau pabandei"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "Pasibaigus laikui, <0>{actualTickPoints}</0> bus skirti pusei, padariusiai daugiausia žalos."
 
-#: src/components/_military/hit/HitButton.tsx:454
+#: src/components/_military/hit/HitButton.tsx:466
 #: src/components/_user/user/skills.frontConfig.tsx:44
 #: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
@@ -1675,7 +1679,7 @@ msgstr "Puolėjai"
 msgid "Auction Duration (minutes)"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2059
+#: src/components/_user/notification/notification.frontConfig.tsx:2064
 msgid "Auction Outbid"
 msgstr ""
 
@@ -1697,9 +1701,17 @@ msgstr "Nepavyko patvirtinti tapatybės. Bandykite dar kartą."
 msgid "Auto approval"
 msgstr "Automatinis patvirtinimas"
 
+#: src/components/_user/kits/KitsPopover.tsx:223
+msgid "Auto-equip when item breaks"
+msgstr ""
+
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Laikui bėgant automatiškai generuoja <0>gamybos taškus</0>, nereikia dirbti."
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:269
+msgid "Autobuy when empty"
+msgstr ""
 
 #: src/components/_economy/company/CompanyTags.tsx:87
 msgid "Automated engine"
@@ -1726,7 +1738,7 @@ msgstr "Kūdikių bumo karta"
 msgid "Badge won"
 msgstr "Gautas ženklelis"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1887
+#: src/components/_user/notification/notification.frontConfig.tsx:1892
 msgid "Badge Won"
 msgstr "Pelnytas ženklelis"
 
@@ -1751,15 +1763,15 @@ msgstr "Bankrotas"
 msgid "Banned"
 msgstr "Užblokuotas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1903
+#: src/components/_user/notification/notification.frontConfig.tsx:1908
 msgid "Banner Accepted!"
 msgstr "Baneris patvirtintas!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1900
+#: src/components/_user/notification/notification.frontConfig.tsx:1905
 msgid "Banner gift received"
 msgstr "Gauta reklamjuostės dovana"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1898
+#: src/components/_user/notification/notification.frontConfig.tsx:1903
 msgid "Banner gift sent"
 msgstr "Banerio dovana išsiųsta"
 
@@ -1799,7 +1811,7 @@ msgid "Battle"
 msgstr "Mūšis"
 
 #: src/components/_political/event/EventList.tsx:65
-#: src/components/_user/notification/notification.frontConfig.tsx:1984
+#: src/components/_user/notification/notification.frontConfig.tsx:1989
 msgid "Battle ended"
 msgstr "Mūšis baigėsi"
 
@@ -1856,7 +1868,7 @@ msgstr "Tapti kandidatu"
 msgid "Better than nothing, right?"
 msgstr "Geriau negu nieko, tiesa?"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:292
 msgid "Bid"
 msgstr ""
 
@@ -1936,15 +1948,15 @@ msgstr "Peržiūrėti paketus"
 msgid "Budget"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2064
+#: src/components/_user/notification/notification.frontConfig.tsx:2069
 msgid "Buff ended"
 msgstr "Pastiprinimas baigėsi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2062
+#: src/components/_user/notification/notification.frontConfig.tsx:2067
 msgid "Buff expiring soon"
 msgstr "Pastiprinimas netrukus baigs galioti"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2060
+#: src/components/_user/notification/notification.frontConfig.tsx:2065
 msgid "Buff started"
 msgstr "Pastiprinimas prasidėjo"
 
@@ -2190,7 +2202,7 @@ msgstr "Pasirink savo pusę ir spausk, kad darytum <0>žalą</0>! Smūgiuok toli
 msgid "Citizen since <0><1/></0>"
 msgstr "Pilietis nuo <0><1/></0>"
 
-#: src/components/_political/country/CountryHeader.tsx:124
+#: src/components/_political/country/CountryHeader.tsx:125
 msgid "Citizens"
 msgstr "Piliečiai"
 
@@ -2226,7 +2238,7 @@ msgstr "Piliečiai, kovodami už sąjungininkus, gauna papildomą <0>{0}</0> kov
 msgid "Citizens get an additional <0>{0}</0> defensive battle bonus."
 msgstr "Piliečiai gauna papildomą <0>{0}</0> gynybinio mūšio bonusą."
 
-#: src/components/_political/country/CountryHeader.tsx:111
+#: src/components/_political/country/CountryHeader.tsx:112
 msgid "Citizenship"
 msgstr "Pilietybė"
 
@@ -2272,6 +2284,10 @@ msgstr "Spustelėk savo šalies pokalbį, kad galėtum bendrauti su kitais pilie
 msgid "Click to apply and start earning money right away."
 msgstr "Spustelėkite, kad kandidatuotumėte ir iškart pradėtumėte uždirbti pinigus."
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:166
+msgid "Click to consume."
+msgstr ""
+
 #: src/components/_other/tour/tuto.frontConfig.tsx:100
 msgid "Click to reveal what's inside. You might get something valuable!"
 msgstr "Spustelėk, kad pamatytum, kas viduje. Gali gauti ką nors vertingo!"
@@ -2305,8 +2321,8 @@ msgstr "Spalvų schema"
 msgid "Commander"
 msgstr "Vadas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1906
-#: src/components/_user/notification/notification.frontConfig.tsx:1919
+#: src/components/_user/notification/notification.frontConfig.tsx:1911
+#: src/components/_user/notification/notification.frontConfig.tsx:1924
 msgid "Commission earned"
 msgstr "Uždirbti komisiniai"
 
@@ -2404,20 +2420,20 @@ msgid "Congratulations! You have been elected to the council of <0/>"
 msgstr "Sveikiname! Buvote išrinktas į <0/> tarybą"
 
 #. placeholder {0}: militaryRankingConfig[data.rank].percentDamages
-#: src/components/_user/notification/notification.frontConfig.tsx:1210
+#: src/components/_user/notification/notification.frontConfig.tsx:1215
 msgid "Congratulations! You have been promoted to <0/> with an attack bonus of <1>{0}</1>"
 msgstr "Sveikiname! Jūs paaukštintas į <0/>, suteikiant <1>{0}</1> puolimo bonusą"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1399
+#: src/components/_user/notification/notification.frontConfig.tsx:1404
 msgid "Congratulations! You won the giveaway and received cases!"
 msgstr "Sveikiname! Laimėjote loteriją ir gavote dėžių!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:351
-#: src/components/_user/notification/notification.frontConfig.tsx:1055
+#: src/components/_user/notification/notification.frontConfig.tsx:1060
 msgid "Congratulations! Your application to <0/> has been accepted"
 msgstr "Sveikiname! Jūsų paraiška į <0/> buvo priimta"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1278
+#: src/components/_user/notification/notification.frontConfig.tsx:1283
 msgid "Congratulations! Your team <0/> won the tournament <1/>!"
 msgstr "Sveikiname! Tavo komanda <0/> laimėjo turnyrą <1/>!"
 
@@ -2478,6 +2494,10 @@ msgstr "Užkariautojas"
 msgid "Consider giving it to your local moderator"
 msgstr "Apsvarstykite galimybę atiduoti tai savo vietos moderatoriui"
 
+#: src/components/_economy/inventory/ConsumeItems.tsx:163
+msgid "Consume items"
+msgstr ""
+
 #: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
 msgstr "Sunaudojama kovojant mūšiuose"
@@ -2492,19 +2512,19 @@ msgstr "Pavartojus, tavo <0>ataka</0> padidėja {0}h.<1/> Vėliau tiek pat suma�
 msgid "Contextual borders"
 msgstr "Kontekstinės ribos"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2051
+#: src/components/_user/notification/notification.frontConfig.tsx:2056
 msgid "Contract cancelled"
 msgstr "Sutartis atšaukta"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2048
+#: src/components/_user/notification/notification.frontConfig.tsx:2053
 msgid "Contract completed"
 msgstr "Sutartis įvykdyta"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2054
+#: src/components/_user/notification/notification.frontConfig.tsx:2059
 msgid "Contract expired"
 msgstr "Sutartis baigėsi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2057
+#: src/components/_user/notification/notification.frontConfig.tsx:2062
 msgid "Contract rolled back"
 msgstr "Sutartis atšaukta"
 
@@ -2512,7 +2532,7 @@ msgstr "Sutartis atšaukta"
 #: src/components/_military/battle/BattlesHeader.tsx:43
 #: src/components/_military/battle/BattleSideContractsModal.tsx:47
 #: src/components/_military/battle/LootSummaryCard.tsx:95
-#: src/components/_political/country/CountryHeader.tsx:132
+#: src/components/_political/country/CountryHeader.tsx:133
 msgid "Contracts"
 msgstr "Kontraktai"
 
@@ -2577,7 +2597,7 @@ msgstr "Šalys"
 #: src/components/_layout/MoreButtonNav.tsx:131
 #: src/components/_military/battle/BattleCountrySide.tsx:72
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:133
-#: src/components/_political/country/CountryHeader.tsx:54
+#: src/components/_political/country/CountryHeader.tsx:55
 msgid "Country"
 msgstr "Šalis"
 
@@ -2590,7 +2610,7 @@ msgid "Country Orders"
 msgstr "Šalies įsakymai"
 
 #. placeholder {0}: data.partialPayout
-#: src/components/_user/notification/notification.frontConfig.tsx:1567
+#: src/components/_user/notification/notification.frontConfig.tsx:1572
 msgid "Country paid <0>{0}</0> for damages done."
 msgstr ""
 
@@ -2714,7 +2734,7 @@ msgstr "Kasdienės"
 msgid "Daily maintenance"
 msgstr "Kasdienis išlaikymas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2079
+#: src/components/_user/notification/notification.frontConfig.tsx:2084
 msgid "Daily Missions Reset"
 msgstr "Dienos misijos atnaujintos"
 
@@ -2731,7 +2751,7 @@ msgid "Damage ranking"
 msgstr "Žalos reitingas"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:160
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:161
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:164
 #: src/components/_military/war/WarComparison.tsx:90
 msgid "Damages"
 msgstr "Žala"
@@ -2820,7 +2840,7 @@ msgstr "Padaro daugiau žalos"
 msgid "Deals some damages"
 msgstr "Padaro žalos"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2065
+#: src/components/_user/notification/notification.frontConfig.tsx:2070
 msgid "Debuff ended"
 msgstr "Neigiamas efektas baigėsi"
 
@@ -2855,7 +2875,7 @@ msgstr "Sumažinti"
 msgid "Decrease unrest"
 msgstr "Sumažinti neramumus"
 
-#: src/components/_military/hit/HitButton.tsx:457
+#: src/components/_military/hit/HitButton.tsx:469
 msgid "Defend"
 msgstr "Ginti"
 
@@ -2906,7 +2926,7 @@ msgstr "Pažeminti vadą"
 msgid "Demote from Commander"
 msgstr "Pažeminti iš vado pareigų"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2036
+#: src/components/_user/notification/notification.frontConfig.tsx:2041
 msgid "Demoted from Commander"
 msgstr "Pažemintas iš vado pareigų"
 
@@ -3066,7 +3086,7 @@ msgstr "Auka"
 msgid "Donation Summary"
 msgstr "Paramos suvestinė"
 
-#: src/components/_political/country/CountryHeader.tsx:86
+#: src/components/_political/country/CountryHeader.tsx:87
 #: src/pages/country/[countryId]/donations.tsx:17
 #: src/pages/mu/[muId]/donations.tsx:17
 #: src/pages/party/[partyId]/donations.tsx:17
@@ -3138,19 +3158,19 @@ msgstr "Redaguoti darbuotoją"
 msgid "Effective:"
 msgstr "Faktinė:"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1943
+#: src/components/_user/notification/notification.frontConfig.tsx:1948
 msgid "Election candidacy open"
 msgstr "Atverta kandidatų registracija į rinkimus"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1948
+#: src/components/_user/notification/notification.frontConfig.tsx:1953
 msgid "Election ended"
 msgstr "Rinkimai baigėsi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1946
+#: src/components/_user/notification/notification.frontConfig.tsx:1951
 msgid "Election vote open"
 msgstr "Prasidėjo balsavimas rinkimuose"
 
-#: src/components/_political/country/CountryHeader.tsx:105
+#: src/components/_political/country/CountryHeader.tsx:106
 #: src/pages/country/[countryId]/elections.tsx:28
 #: src/pages/country/[countryId]/index.tsx:369
 #: src/pages/party/[partyId]/index.tsx:100
@@ -3429,7 +3449,7 @@ msgstr "Ūkininko Kelnės"
 msgid "Favorites"
 msgstr "Mėgstamiausi"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:231
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:234
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:108
 msgid "Fee"
 msgstr ""
@@ -3447,7 +3467,7 @@ msgstr "Ištikimybės premija"
 msgid "Fidelity bonus:"
 msgstr "Lojalumo premija:"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:152
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:155
 msgid "Fight for <0/> in <1/>"
 msgstr ""
 
@@ -3538,7 +3558,7 @@ msgstr "Atleisti vyriausybės narį"
 msgid "Fire worker?"
 msgstr "Atleisti darbuotoją?"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1955
+#: src/components/_user/notification/notification.frontConfig.tsx:1960
 msgid "Fired from government"
 msgstr "Atleistas iš valdžios"
 
@@ -3628,6 +3648,10 @@ msgstr "Gaukite kelias išvaizdas vienu metu su 30 % nuolaida!"
 msgid "Get supporter plan"
 msgstr "Įsigyk rėmėjo planą"
 
+#: src/components/_user/kits/KitsPopover.tsx:211
+msgid "Get Supporter Plan"
+msgstr ""
+
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:94
 msgid "Gift from Vatou, don't tell anyone"
 msgstr "Dovana nuo Vatou, niekam nesakyk"
@@ -3664,7 +3688,7 @@ msgstr "Suteikite prieigos raktui aiškų pavadinimą, kad vėliau galėtumėte 
 msgid "Giveaway Winner"
 msgstr "Dalinimo laimėtojas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2077
+#: src/components/_user/notification/notification.frontConfig.tsx:2082
 msgid "Giveaway Won!"
 msgstr "Laimėjote dalybas!"
 
@@ -3698,7 +3722,7 @@ msgstr "Eiti į įgūdžius"
 msgid "Gold"
 msgstr "Auksas"
 
-#: src/components/_political/country/CountryHeader.tsx:92
+#: src/components/_political/country/CountryHeader.tsx:93
 msgid "Government"
 msgstr "Vyriausybė"
 
@@ -3878,7 +3902,7 @@ msgid "Hitting for your own country while in government gives {0}% bounty effici
 msgstr "Kovodamas už savo šalį būdamas valdžioje gauni {0}% premijos efektyvumo."
 
 #: src/components/_other/shop/ShopHeader.tsx:16
-#: src/components/_political/country/CountryHeader.tsx:61
+#: src/components/_political/country/CountryHeader.tsx:62
 #: src/components/_user/user/UserHeader.tsx:151
 msgid "Home"
 msgstr "Pradžia"
@@ -4060,7 +4084,7 @@ msgstr "Tik geriau... galbūt"
 msgid "It will not gain any production and its workers will not be able to work."
 msgstr "Ji negaus jokios produkcijos, o jos darbuotojai negalės dirbti."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1928
+#: src/components/_user/notification/notification.frontConfig.tsx:1933
 msgid "Item bought"
 msgstr "Daiktas nupirktas"
 
@@ -4218,11 +4242,11 @@ msgid "Law failed"
 msgstr "Įstatymas nepriimtas"
 
 #: src/components/_political/law/LawFormModal.tsx:76
-#: src/components/_user/notification/notification.frontConfig.tsx:1941
+#: src/components/_user/notification/notification.frontConfig.tsx:1946
 msgid "Law proposed"
 msgstr "Pasiūlytas įstatymas"
 
-#: src/components/_political/country/CountryHeader.tsx:67
+#: src/components/_political/country/CountryHeader.tsx:68
 #: src/pages/country/[countryId]/index.tsx:177
 #: src/pages/country/[countryId]/laws.tsx:24
 msgid "Laws"
@@ -4283,7 +4307,7 @@ msgstr "Lygis {level}"
 msgid "Level up your skills!"
 msgstr "Tobulink savo įgūdžius!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1888
+#: src/components/_user/notification/notification.frontConfig.tsx:1893
 msgid "Level up!"
 msgstr "Lygis pakilo!"
 
@@ -4397,7 +4421,7 @@ msgstr "Grobio dėžės"
 msgid "Loot chance"
 msgstr "Grobio tikimybė"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2004
+#: src/components/_user/notification/notification.frontConfig.tsx:2009
 msgid "Loot reward"
 msgstr "Atlygis už grobį"
 
@@ -4563,7 +4587,7 @@ msgstr "Narys paaukštintas į vadą"
 msgid "Members"
 msgstr "Nariai"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2072
+#: src/components/_user/notification/notification.frontConfig.tsx:2077
 msgid "Mentioned in message"
 msgstr "Paminėjo žinutėje"
 
@@ -4594,7 +4618,7 @@ msgstr "Samdinio reputacija"
 msgid "Message (Optional)"
 msgstr "Žinutė (nebūtina)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2070
+#: src/components/_user/notification/notification.frontConfig.tsx:2075
 msgid "Message liked"
 msgstr "Patiko žinutė"
 
@@ -4623,7 +4647,7 @@ msgstr "Kariniai įstatymai"
 msgid "Military Rank"
 msgstr "Karinis laipsnis"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1983
+#: src/components/_user/notification/notification.frontConfig.tsx:1988
 msgid "Military Rank Up!"
 msgstr "Pakeltas karinis laipsnis!"
 
@@ -4652,7 +4676,7 @@ msgstr "Kariniai vienetai"
 msgid "Military Units"
 msgstr "Kariniai vienetai"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:286
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:289
 msgid "Min reached"
 msgstr ""
 
@@ -4761,7 +4785,7 @@ msgstr "Perkelti įmonę"
 msgid "Move to top"
 msgstr "Perkelti į viršų"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1924
+#: src/components/_user/notification/notification.frontConfig.tsx:1929
 msgid "Moved to a new company"
 msgstr "Perėjo į naują įmonę"
 
@@ -4770,19 +4794,19 @@ msgstr "Perėjo į naują įmonę"
 msgid "MU"
 msgstr "MU"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2023
+#: src/components/_user/notification/notification.frontConfig.tsx:2028
 msgid "MU Application Accepted"
 msgstr "Paraiška į MU priimta"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2020
+#: src/components/_user/notification/notification.frontConfig.tsx:2025
 msgid "MU Application Rejected"
 msgstr "MU paraiška atmesta"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2042
+#: src/components/_user/notification/notification.frontConfig.tsx:2047
 msgid "MU Donation Received"
 msgstr "Gauta MU parama"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2028
+#: src/components/_user/notification/notification.frontConfig.tsx:2033
 msgid "MU Level Up!"
 msgstr "MU lygis pakilo!"
 
@@ -4794,7 +4818,7 @@ msgstr "Mėnesiniai MU lygiai"
 msgid "MU Orders"
 msgstr "Karinio būrio įsakymai"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2039
+#: src/components/_user/notification/notification.frontConfig.tsx:2044
 msgid "MU Ownership Transferred"
 msgstr "Perduota MU nuosavybė"
 
@@ -4886,15 +4910,15 @@ msgstr "Nauja"
 msgid "New API Token Created"
 msgstr "Sukurtas naujas API raktas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1935
+#: src/components/_user/notification/notification.frontConfig.tsx:1940
 msgid "New article"
 msgstr "Naujas straipsnis"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1937
+#: src/components/_user/notification/notification.frontConfig.tsx:1942
 msgid "New comment"
 msgstr "Naujas komentaras"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2045
+#: src/components/_user/notification/notification.frontConfig.tsx:2050
 msgid "New contract accepted"
 msgstr "Nauja sutartis priimta"
 
@@ -4920,7 +4944,7 @@ msgstr "Nauja vieta"
 msgid "New Mercenary Auction"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2066
+#: src/components/_user/notification/notification.frontConfig.tsx:2071
 msgid "New message"
 msgstr "Nauja žinutė"
 
@@ -4928,7 +4952,7 @@ msgstr "Nauja žinutė"
 msgid "New military unit"
 msgstr "Naujas karinis vienetas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2026
+#: src/components/_user/notification/notification.frontConfig.tsx:2031
 msgid "New MU Application"
 msgstr "Nauja paraiška į MU"
 
@@ -4936,28 +4960,28 @@ msgstr "Nauja paraiška į MU"
 msgid "New name"
 msgstr "Naujas pavadinimas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1978
+#: src/components/_user/notification/notification.frontConfig.tsx:1983
 msgid "New Party Application"
 msgstr "Nauja paraiška į partiją"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1967
+#: src/components/_user/notification/notification.frontConfig.tsx:1972
 msgid "New Party Leader"
 msgstr "Naujas partijos vadovas"
 
 #: src/components/_political/event/EventList.tsx:66
-#: src/components/_user/notification/notification.frontConfig.tsx:1950
+#: src/components/_user/notification/notification.frontConfig.tsx:1955
 msgid "New president"
 msgstr "Naujas prezidentas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1981
+#: src/components/_user/notification/notification.frontConfig.tsx:1986
 msgid "New referred user"
 msgstr "Naujas pakviestas žaidėjas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1982
+#: src/components/_user/notification/notification.frontConfig.tsx:1987
 msgid "New referrer"
 msgstr "Naujas rekomenduotojas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1940
+#: src/components/_user/notification/notification.frontConfig.tsx:1945
 msgid "New subscriber"
 msgstr "Naujas prenumeratorius"
 
@@ -4965,7 +4989,7 @@ msgstr "Naujas prenumeratorius"
 msgid "New supporters"
 msgstr "Nauji šalininkai"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1921
+#: src/components/_user/notification/notification.frontConfig.tsx:1926
 msgid "New worker"
 msgstr "Naujas darbuotojas"
 
@@ -5160,7 +5184,7 @@ msgstr "Pasiūlyti"
 msgid "Nominate a {title}"
 msgstr "Pasiūlyti į {title} pareigas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1952
+#: src/components/_user/notification/notification.frontConfig.tsx:1957
 msgid "Nominated at government"
 msgstr "Paskirtas į vyriausybę"
 
@@ -5362,7 +5386,7 @@ msgstr "Turimi kariniai daliniai"
 msgid "Owner"
 msgstr "Savininkas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1125
+#: src/components/_user/notification/notification.frontConfig.tsx:1130
 msgid "Ownership of <0/> has been transferred from <1/> to <2/>"
 msgstr "<0/> nuosavybė perduota iš <1/> <2/>"
 
@@ -5407,11 +5431,11 @@ msgstr "Partijos"
 msgid "Party"
 msgstr "Partija"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1972
+#: src/components/_user/notification/notification.frontConfig.tsx:1977
 msgid "Party Application Accepted"
 msgstr "Priėmimas į partiją patvirtintas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1975
+#: src/components/_user/notification/notification.frontConfig.tsx:1980
 msgid "Party Application Rejected"
 msgstr "Prašymas įstoti į partiją atmestas"
 
@@ -5435,15 +5459,15 @@ msgstr "<0/> jau prasidėjo Partijos tarybos rinkimų balsavimas"
 msgid "Party created"
 msgstr "Partija sukurta"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1958
+#: src/components/_user/notification/notification.frontConfig.tsx:1963
 msgid "Party election candidacy open"
 msgstr "Atidaryta kandidatūra į partijos rinkimus"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1964
+#: src/components/_user/notification/notification.frontConfig.tsx:1969
 msgid "Party election ended"
 msgstr "Partijos rinkimai baigėsi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1961
+#: src/components/_user/notification/notification.frontConfig.tsx:1966
 msgid "Party election vote open"
 msgstr "Prasidėjo balsavimas partijos rinkimuose"
 
@@ -5483,7 +5507,7 @@ msgstr "Įklijuokite savo rinkimų kampanijos straipsnio nuorodą arba palikite 
 msgid "Payment successful! Thanks for supporting the game <3"
 msgstr "Mokėjimas sėkmingas! Ačiū, kad palaikote žaidimą <3"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:179
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:182
 msgid "Payout"
 msgstr ""
 
@@ -5595,23 +5619,23 @@ msgstr "Premium"
 msgid "Premium & Gifts"
 msgstr "Premium ir dovanos"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1889
+#: src/components/_user/notification/notification.frontConfig.tsx:1894
 msgid "Premium activated"
 msgstr "Prenumerata įjungta"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1890
+#: src/components/_user/notification/notification.frontConfig.tsx:1895
 msgid "Premium expired"
 msgstr "Prenumerata baigėsi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1896
+#: src/components/_user/notification/notification.frontConfig.tsx:1901
 msgid "Premium gift expired"
 msgstr "Dovanota prenumerata baigėsi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1893
+#: src/components/_user/notification/notification.frontConfig.tsx:1898
 msgid "Premium gift received"
 msgstr "Gauta Premium dovana"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1891
+#: src/components/_user/notification/notification.frontConfig.tsx:1896
 msgid "Premium gift sent"
 msgstr "Premium dovana išsiųsta"
 
@@ -5647,7 +5671,7 @@ msgstr "Prezidento rinkimai"
 msgid "Primary election"
 msgstr "Pirminiai rinkimai"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1969
+#: src/components/_user/notification/notification.frontConfig.tsx:1974
 msgid "Primary Election Ended"
 msgstr "Pirminiai rinkimai baigėsi"
 
@@ -5665,7 +5689,7 @@ msgstr "Privatumas"
 msgid "Private"
 msgstr "Eilinis"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:205
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:208
 msgid "Pro Only"
 msgstr ""
 
@@ -5715,7 +5739,7 @@ msgstr "Gamybos bonusas:"
 msgid "Production in<0/> is full, you should start production!"
 msgstr "Gamyba įmonėje <0/> pilna, turėtumėte ją pradėti!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1930
+#: src/components/_user/notification/notification.frontConfig.tsx:1935
 msgid "Production is full"
 msgstr "Gamybos eilė pilna"
 
@@ -5736,7 +5760,7 @@ msgstr "Profilis"
 msgid "Promote to Commander"
 msgstr "Paaukštinti į vadus"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2033
+#: src/components/_user/notification/notification.frontConfig.tsx:2038
 msgid "Promoted to Commander"
 msgstr "Paaukštintas iki vado"
 
@@ -5836,7 +5860,7 @@ msgstr "Greitai išardykite daiktus"
 msgid "Ranking"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1980
+#: src/components/_user/notification/notification.frontConfig.tsx:1985
 msgid "Ranking reward"
 msgstr "Reitingo apdovanojimas"
 
@@ -5850,7 +5874,7 @@ msgstr "Reitingai"
 msgid "Ranks"
 msgstr "Laipsniai"
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:168
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:171
 msgid "Rate"
 msgstr ""
 
@@ -5998,7 +6022,7 @@ msgstr "Regionas"
 msgid "Region buy offer"
 msgstr "Pasiūlymas pirkti regioną"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1996
+#: src/components/_user/notification/notification.frontConfig.tsx:2001
 msgid "Region is revolting!"
 msgstr "Regione kilo maištas!"
 
@@ -6014,7 +6038,7 @@ msgstr "Regiono perdavimas"
 msgid "regions"
 msgstr "regionai"
 
-#: src/components/_political/country/CountryHeader.tsx:118
+#: src/components/_political/country/CountryHeader.tsx:119
 msgid "Regions"
 msgstr "Regionai"
 
@@ -6108,7 +6132,7 @@ msgstr "Pašalinti priešą"
 msgid "Remove the current party leader from their position"
 msgstr "Atleisti dabartinį partijos lyderį iš pareigų"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2030
+#: src/components/_user/notification/notification.frontConfig.tsx:2035
 msgid "Removed from Military Unit"
 msgstr "Pašalintas iš karinio dalinio"
 
@@ -6194,7 +6218,7 @@ msgstr "Atkurti vardą"
 msgid "Reshuffle in"
 msgstr "Permainos"
 
-#: src/components/_military/hit/HitButton.tsx:452
+#: src/components/_military/hit/HitButton.tsx:464
 msgid "Resist"
 msgstr "Priešintis"
 
@@ -6215,7 +6239,7 @@ msgstr "Ištekliai"
 msgid "Resources reshuffled"
 msgstr "Ištekliai perskirstyti"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2068
+#: src/components/_user/notification/notification.frontConfig.tsx:2073
 msgid "Response to message"
 msgstr "Atsakymas į žinutę"
 
@@ -6231,7 +6255,7 @@ msgstr "Grąžinti regioną jo pradinei šaliai"
 msgid "Revoke API token?"
 msgstr "Atšaukti API raktą?"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1999
+#: src/components/_user/notification/notification.frontConfig.tsx:2004
 msgid "Revolt started!"
 msgstr "Sukilimas prasidėjo!"
 
@@ -6243,7 +6267,7 @@ msgstr "Revoliucija baigėsi"
 msgid "Revolution started"
 msgstr "Prasidėjo revoliucija"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2002
+#: src/components/_user/notification/notification.frontConfig.tsx:2007
 msgid "Revolution started!"
 msgstr "Prasidėjo revoliucija!"
 
@@ -6277,7 +6301,7 @@ msgstr "Raundas"
 
 #. placeholder {0}: auction.roundNumber
 #. placeholder {0}: contract.roundNumber
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:214
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:217
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:132
 msgid "Round {0}"
 msgstr "Raundas {0}"
@@ -6296,11 +6320,11 @@ msgstr "Raundas #{0}"
 msgid "Round <0>#{0}</0> in <1/> is about to end!"
 msgstr "Raundas <0>#{0}</0> žaidime <1/> netrukus baigsis!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1987
+#: src/components/_user/notification/notification.frontConfig.tsx:1992
 msgid "Round about to end"
 msgstr "Raundas netrukus baigsis"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1985
+#: src/components/_user/notification/notification.frontConfig.tsx:1990
 msgid "Round ended"
 msgstr "Raundas baigėsi"
 
@@ -6348,6 +6372,10 @@ msgstr "Baigiasi sveikata?"
 #: src/pages/user/[userId]/skills.tsx:210
 msgid "Save"
 msgstr "Išsaugoti"
+
+#: src/components/_user/kits/KitsPopover.tsx:197
+msgid "Save your equipment kits"
+msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:124
 msgid "Save your progress!"
@@ -6593,7 +6621,7 @@ msgid "Shop"
 msgstr "Parduotuvė"
 
 #. placeholder {0}: auction.bids.length
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:270
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:273
 msgid "Show all {0} bids"
 msgstr ""
 
@@ -6652,15 +6680,15 @@ msgstr "Įgūdžiai tave stiprina. Laikas juos patobulinti!"
 msgid "Skills saved!"
 msgstr "Įgūdžiai išsaugoti!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1910
+#: src/components/_user/notification/notification.frontConfig.tsx:1915
 msgid "Skin gift received"
 msgstr "Gavote skiną dovanų"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1908
+#: src/components/_user/notification/notification.frontConfig.tsx:1913
 msgid "Skin gift sent"
 msgstr "Išvaizdos dovana išsiųsta"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1913
+#: src/components/_user/notification/notification.frontConfig.tsx:1918
 msgid "Skin pack gift sent"
 msgstr "Skinų rinkinio dovana išsiųsta"
 
@@ -6672,7 +6700,7 @@ msgstr "Atrakintas išvaizdų rinkinys! Visos išvaizdos pritaikytos!"
 msgid "Skin Packs"
 msgstr "Išvaizdų paketai"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2084
+#: src/components/_user/notification/notification.frontConfig.tsx:2089
 msgid "Skin Reward"
 msgstr ""
 
@@ -6913,6 +6941,10 @@ msgstr "Rėmėjo planas"
 msgid "Supporter Plan"
 msgstr "Rėmėjo planas"
 
+#: src/components/_user/kits/KitsPopover.tsx:200
+msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
+msgstr ""
+
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
 msgstr "Vyriausiasis vadas"
@@ -7006,12 +7038,12 @@ msgid "The civil war started by <0/> in <1/> has succeeded of <2/> and the gover
 msgstr "Pilietinis karas, kurį <1/> pradėjo <0/>, baigėsi sėkmingai prieš <2/>, o valdžia buvo nuversta."
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1605
+#: src/components/_user/notification/notification.frontConfig.tsx:1610
 msgid "The contract for <0/> has expired. <1>{0}</1> returned to <2/>."
 msgstr ""
 
 #. placeholder {0}: data.moneyRolledBack
-#: src/components/_user/notification/notification.frontConfig.tsx:1623
+#: src/components/_user/notification/notification.frontConfig.tsx:1628
 msgid "The contract has been rolled back. <0>{0}</0> sent back to <1/>."
 msgstr ""
 
@@ -7049,7 +7081,7 @@ msgstr "Revoliucija <0/> buvo sėkminga! Vyriausybė nuversta."
 msgid "The strategic resource will be reshuffled in the following amount of time."
 msgstr "Strateginis išteklius bus perskirstytas po tiek laiko."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1323
+#: src/components/_user/notification/notification.frontConfig.tsx:1328
 msgid "The tournament has ended for your team <0/>. Check the results!"
 msgstr "Tavo komandos <0/> turnyras baigėsi. Peržiūrėk rezultatus!"
 
@@ -7061,7 +7093,7 @@ msgstr "Visata tau skolinga kažką rimto"
 msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
 msgstr ""
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:132
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:135
 msgid "This action will submit your MU bid for this contract."
 msgstr ""
 
@@ -7121,6 +7153,10 @@ msgstr ""
 #: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Šis naudotojas nepriklauso jokiai šeimos grupei"
+
+#: src/components/_economy/inventory/ConsumeItems.tsx:217
+msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
+msgstr ""
 
 #: src/components/_user/user/UserDropdown.tsx:336
 msgid "This will require the user to verify their mobile phone number."
@@ -7316,15 +7352,15 @@ msgstr "Iš viso:"
 msgid "Tournament"
 msgstr "Turnyras"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2010
+#: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Created"
 msgstr "Turnyras sukurtas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2017
+#: src/components/_user/notification/notification.frontConfig.tsx:2022
 msgid "Tournament Eliminated"
 msgstr "Iškritote iš turnyro"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2015
+#: src/components/_user/notification/notification.frontConfig.tsx:2020
 msgid "Tournament Ended"
 msgstr "Turnyras baigėsi"
 
@@ -7332,15 +7368,15 @@ msgstr "Turnyras baigėsi"
 msgid "Tournament reward:"
 msgstr "Turnyro apdovanojimas:"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2006
+#: src/components/_user/notification/notification.frontConfig.tsx:2011
 msgid "Tournament round won!"
 msgstr "Laimėtas turnyro raundas!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2013
+#: src/components/_user/notification/notification.frontConfig.tsx:2018
 msgid "Tournament Started"
 msgstr "Turnyras prasidėjo"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2008
+#: src/components/_user/notification/notification.frontConfig.tsx:2013
 msgid "Tournament Won!"
 msgstr "Laimėjote turnyrą!"
 
@@ -7353,7 +7389,7 @@ msgstr "Prekyba"
 msgid "Trading"
 msgstr "Prekyba"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1933
+#: src/components/_user/notification/notification.frontConfig.tsx:1938
 msgid "Trading transaction"
 msgstr "Prekybos sandoris"
 
@@ -7365,7 +7401,7 @@ msgstr "Naujokas"
 msgid "Transac."
 msgstr "Oper."
 
-#: src/components/_political/country/CountryHeader.tsx:80
+#: src/components/_political/country/CountryHeader.tsx:81
 #: src/pages/market/index.tsx:83
 #: src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
@@ -7442,7 +7478,7 @@ msgstr "Atrakinti mygtuką „Padėti visiems“"
 msgid "Unlock Produce all button"
 msgstr "Atrakinkite mygtuką „Gaminti viską“"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1916
+#: src/components/_user/notification/notification.frontConfig.tsx:1921
 msgid "Unlocked pack"
 msgstr "Atrakintas paketas"
 
@@ -7762,7 +7798,7 @@ msgstr "prieš"
 msgid "Wage"
 msgstr "Atlyginimas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1926
+#: src/components/_user/notification/notification.frontConfig.tsx:1931
 msgid "Wage changed"
 msgstr "Atlyginimas pakeistas"
 
@@ -7778,7 +7814,7 @@ msgstr "Atlygis už produkciją"
 msgid "Wage reduction accepted."
 msgstr "Atlyginimo sumažinimas priimtas."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1927
+#: src/components/_user/notification/notification.frontConfig.tsx:1932
 #: src/components/_user/worker/WageReductionAlert.tsx:66
 msgid "Wage reduction proposed"
 msgstr "Pasiūlytas atlyginimo sumažinimas"
@@ -7820,7 +7856,7 @@ msgstr "Įspėjimas"
 msgid "Warrant Officer"
 msgstr "Viršila"
 
-#: src/components/_political/country/CountryHeader.tsx:98
+#: src/components/_political/country/CountryHeader.tsx:99
 msgid "Wars"
 msgstr "Karai"
 
@@ -7855,7 +7891,7 @@ msgstr "Savaitės balansas"
 msgid "Weekly damages"
 msgstr "Savaitės žala"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2082
+#: src/components/_user/notification/notification.frontConfig.tsx:2087
 msgid "Weekly Missions Reset"
 msgstr "Savaitinės misijos atnaujintos"
 
@@ -7930,7 +7966,7 @@ msgstr "Dirbk ir uždirbk!"
 msgid "Worker fired!"
 msgstr "Darbuotojas atleistas!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1922
+#: src/components/_user/notification/notification.frontConfig.tsx:1927
 msgid "Worker left"
 msgstr "Darbuotojas išėjo"
 
@@ -8059,15 +8095,15 @@ msgstr "Negalite prašyti pilietybės, jei einate pareigas vyriausybėje arba ko
 msgid "You don't have permission to view applications."
 msgstr "Neturite teisės peržiūrėti paraiškų."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1490
+#: src/components/_user/notification/notification.frontConfig.tsx:1495
 msgid "You earned gems from a banner sale!"
 msgstr "Gavai brangakmenių už reklaminio skydelio pardavimą!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1834
+#: src/components/_user/notification/notification.frontConfig.tsx:1839
 msgid "You earned gems from a sale of \"{skinTitle}\"!"
 msgstr "Už „{skinTitle}“ pardavimą gavai brangakmenių!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1836
+#: src/components/_user/notification/notification.frontConfig.tsx:1841
 msgid "You earned gems from a skin pack sale!"
 msgstr "Gavai brangakmenių už apvalkalų rinkinio pardavimą!"
 
@@ -8087,7 +8123,7 @@ msgstr "Jūsų prašymas bus automatiškai patvirtintas, nes šalies gyventojų 
 msgid "You have a case!"
 msgstr "Gavai bylą!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1111
+#: src/components/_user/notification/notification.frontConfig.tsx:1116
 msgid "You have been demoted from commander in <0/> by <1/>"
 msgstr "Netekote <0/> vado pareigų - jus pažemino <1/>"
 
@@ -8095,11 +8131,11 @@ msgstr "Netekote <0/> vado pareigų - jus pažemino <1/>"
 msgid "You have been elected as the new leader of <0/>"
 msgstr "Buvote išrinktas naujuoju <0/> lyderiu"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1097
+#: src/components/_user/notification/notification.frontConfig.tsx:1102
 msgid "You have been promoted to commander in <0/> by <1/>"
 msgstr "Tapote <0/> vadu, jus paaukštino <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1083
+#: src/components/_user/notification/notification.frontConfig.tsx:1088
 msgid "You have been removed from <0/> by <1/>"
 msgstr "Iš <0/> jus pašalino <1/>"
 
@@ -8179,22 +8215,22 @@ msgstr "Pirmiausia turi apsiginkluoti"
 msgid "You paid the dev's bills <3 (top 3 in monthly supporter gifts ranking)"
 msgstr "Padengei kūrėjo sąskaitas <3 (patenki į mėnesinio rėmėjų dovanų reitingo top 3)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1027
+#: src/components/_user/notification/notification.frontConfig.tsx:1032
 msgid "You premium gift from <0/> has expired! Would you consider subscribing and supporting the game? 👉👈"
 msgstr "Baigėsi tavo „Premium“ dovanos iš <0/> galiojimas! Ar apsvarstytum prenumeratą ir žaidimo palaikymą? 👉👈"
 
 #. placeholder {0}: data.rank
-#: src/components/_user/notification/notification.frontConfig.tsx:1232
+#: src/components/_user/notification/notification.frontConfig.tsx:1237
 msgid "You received a loot item for rank <0>#{0}</0> in <1/>"
 msgstr "Gavai grobio daiktą už <0>#{0}</0> vietą <1/>"
 
 #. placeholder {0}: data.muId ? ( <MuName muId={data.muId} /> ) : data.countryId ? ( <CountryName countryId={data.countryId} /> ) : ( 'your' )
 #. placeholder {1}: data.rank && ( <> position{' '} <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
-#: src/components/_user/notification/notification.frontConfig.tsx:1358
+#: src/components/_user/notification/notification.frontConfig.tsx:1363
 msgid "You received a reward for {0} {1} in<0/> tier in the ranking <1/>"
 msgstr "Gavote atlygį už {0} {1} <0/>reitingo <1/> pakopoje"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1854
+#: src/components/_user/notification/notification.frontConfig.tsx:1859
 msgid "You received the skin \"{skinTitle}\"!"
 msgstr ""
 
@@ -8203,20 +8239,20 @@ msgid "You sold items."
 msgstr "Pardavėte daiktus."
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1413
+#: src/components/_user/notification/notification.frontConfig.tsx:1418
 msgid "You successfully gifted \"{0}\" to <0/>!"
 msgstr "Sėkmingai padovanojote „{0}“ žaidėjui <0/>!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1679
+#: src/components/_user/notification/notification.frontConfig.tsx:1684
 msgid "You successfully gifted \"{skinTitle}\" to <0/>!"
 msgstr "Sėkmingai padovanojote \"{skinTitle}\" žaidėjui <0/>!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:992
+#: src/components/_user/notification/notification.frontConfig.tsx:997
 msgid "You successfully gifted a premium subscription to <0/>!"
 msgstr "Sėkmingai padovanojote premium prenumeratą <0/>!"
 
 #. placeholder {0}: data.skinPackTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1743
+#: src/components/_user/notification/notification.frontConfig.tsx:1748
 msgid "You successfully gifted the skin pack \"{0}\" to <0/>!"
 msgstr "Sėkmingai padovanojote skinų paketą „{0}“ žaidėjui <0/>!"
 
@@ -8240,8 +8276,8 @@ msgstr "Tave iš vyriausybės atleido <0/>"
 msgid "You were an alpha tester (user before 20 march 2025)"
 msgstr "Buvai alfa testuotojas (naudotojas iki 2025 m. kovo 20 d.)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1949
-#: src/components/_user/notification/notification.frontConfig.tsx:1966
+#: src/components/_user/notification/notification.frontConfig.tsx:1954
+#: src/components/_user/notification/notification.frontConfig.tsx:1971
 msgid "You were elected"
 msgstr "Tave išrinko"
 
@@ -8339,7 +8375,7 @@ msgid "Your ancestors are proud"
 msgstr "Tavo protėviai didžiuojasi"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:365
-#: src/components/_user/notification/notification.frontConfig.tsx:1042
+#: src/components/_user/notification/notification.frontConfig.tsx:1047
 msgid "Your application to <0/> has been rejected"
 msgstr "Jūsų paraiška į <0/> buvo atmesta"
 
@@ -8348,7 +8384,7 @@ msgid "Your article reached 2% of the active population in score (min 10)"
 msgstr "Jūsų straipsnis surinko balų, lygių 2 % aktyvios populiacijos skaičiui (min. 10)"
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1504
+#: src/components/_user/notification/notification.frontConfig.tsx:1509
 msgid "Your banner \"{0}\" has been accepted and is now available in the shop! It has been automatically unlocked for you."
 msgstr "Tavo reklamjuostė „{0}“ buvo patvirtinta ir dabar ją galima rasti parduotuvėje! Ji tau buvo automatiškai atrakinta."
 
@@ -8364,11 +8400,11 @@ msgstr "Tavo pilietybė netrukus pasikeis"
 msgid "Your country"
 msgstr "Tavo šalis"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1990
+#: src/components/_user/notification/notification.frontConfig.tsx:1995
 msgid "Your country is under attack!"
 msgstr "Jūsų šalis puolama!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1993
+#: src/components/_user/notification/notification.frontConfig.tsx:1998
 msgid "Your country launched an attack!"
 msgstr "Jūsų šalis pradėjo puolimą!"
 
@@ -8384,7 +8420,7 @@ msgstr "Tavo dabartinis darbas"
 msgid "Your current order"
 msgstr "Jūsų dabartinis užsakymas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1653
+#: src/components/_user/notification/notification.frontConfig.tsx:1658
 msgid "Your daily missions have been reset! Complete them to earn rewards."
 msgstr "Tavo dienos misijos buvo atnaujintos! Įvykdyk jas ir gauk apdovanojimų."
 
@@ -8437,7 +8473,7 @@ msgstr "Jūsų karinio dalinio pavadinimas"
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
 msgstr ""
 
-#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:223
+#: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:226
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
 msgstr ""
 
@@ -8449,11 +8485,11 @@ msgstr "Tavo pasiūlymai"
 msgid "Your party name"
 msgstr "Jūsų partijos pavadinimas"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:974
+#: src/components/_user/notification/notification.frontConfig.tsx:979
 msgid "Your premium subscription has been activated!"
 msgstr "Jūsų premium prenumerata aktyvuota!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:983
+#: src/components/_user/notification/notification.frontConfig.tsx:988
 msgid "Your premium subscription has expired!"
 msgstr "Jūsų „Premium“ prenumerata baigėsi!"
 
@@ -8465,11 +8501,11 @@ msgstr "Tavo vieta"
 msgid "Your referral link"
 msgstr "Tavo nukreipimo nuoroda"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1337
+#: src/components/_user/notification/notification.frontConfig.tsx:1342
 msgid "Your team <0/> has been eliminated from the <1/>"
 msgstr "Jūsų komanda <0/> buvo pašalinta iš <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1248
+#: src/components/_user/notification/notification.frontConfig.tsx:1253
 msgid "Your team <0/> won a round in <1/>!"
 msgstr "Tavo komanda <0/> laimėjo raundą žaidime <1/>!"
 
@@ -8483,7 +8519,7 @@ msgstr "Tavo komanda:"
 msgid "Your wage in <0/> changed from <1>{0}</1> to <2>{1}</2>"
 msgstr "<0/> tavo atlyginimas pasikeitė nuo <1>{0}</1> į <2>{1}</2>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1665
+#: src/components/_user/notification/notification.frontConfig.tsx:1670
 msgid "Your weekly missions have been reset! Complete them to earn rewards."
 msgstr "Jūsų savaitinės misijos buvo atnaujintos! Įvykdykite jas ir gaukite apdovanojimų."
 
