@@ -2646,7 +2646,7 @@ msgstr "Bonus prihoda od razvoјa države"
 
 #: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
-msgstr ""
+msgstr "Državne transakcije"
 
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:40
 msgid "Country Orders"
