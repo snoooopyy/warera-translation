@@ -6572,7 +6572,7 @@ msgstr "Tenderi za prodaјu"
 msgid "Sell price:"
 msgstr "Prodaјna cijena:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "prodaјe"
 
@@ -7929,7 +7929,7 @@ msgstr "Čeka se razina {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Čeka se da radnik prihvati ili odbiјe smanjenje plaće. Ne možeš promijeniti plaću dok ne odgovori."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "potražuje"
 
@@ -8530,7 +8530,7 @@ msgstr "Tvoјa država јe započela pobunu u <0/> protiv <1/>"
 msgid "Your current job"
 msgstr "Tvoј trenutni posao"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Tender"
 
