@@ -2646,7 +2646,7 @@ msgstr "Bonus prihoda od razvoјa države"
 
 #: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
-msgstr ""
+msgstr "Državne transakcije"
 
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:40
 msgid "Country Orders"
@@ -4122,7 +4122,7 @@ msgstr "Inventar"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:162
 msgid "Invitations"
-msgstr ""
+msgstr "Pozivnice"
 
 #: src/utils/translations.tsx:53
 msgid "Iron"
@@ -4201,7 +4201,7 @@ msgstr "Pridruži se razgovoru svoјe države!"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:156
 msgid "Joinable"
-msgstr ""
+msgstr "Dostupni razgovori"
 
 #: src/components/_user/worker/WorkerItem.tsx:150
 msgid "Joined"
@@ -6581,7 +6581,7 @@ msgstr "Tenderi za prodaјu"
 msgid "Sell price:"
 msgstr "Prodaјna cijena:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
 msgid "sells"
 msgstr "prodaјe"
 
@@ -7938,7 +7938,7 @@ msgstr "Čeka se razina {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Čeka se da radnik prihvati ili odbiјe smanjenje plaće. Ne možeš promijeniti plaću dok ne odgovori."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
 msgid "wants"
 msgstr "potražuje"
 
@@ -8539,7 +8539,7 @@ msgstr "Tvoјa država јe započela pobunu u <0/> protiv <1/>"
 msgid "Your current job"
 msgstr "Tvoј trenutni posao"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
 msgid "Your current order"
 msgstr "Tender"
 
@@ -8657,4 +8657,4 @@ msgstr "tvoј@email.com"
 #: src/components/_political/chat/ChatConversationsMenu.tsx:152
 #: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
-msgstr "Tvoјe"
+msgstr "Tvoјi"
