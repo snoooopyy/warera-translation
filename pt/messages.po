@@ -1550,7 +1550,7 @@ msgstr "Tokens de API"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:101
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
-msgstr "Os tokens de API permitem que aplicações externas acessem a API em seu nome. Use o token no cabeçalho <0>X-API-Key</0>. Cada token tem um limite de 200 requisições por minuto."
+msgstr "Os tokens de API permitem o acesso de aplicações externas à API em teu nome. Cada token pode fazer até 200 pedidos por minuto e deve ser enviado no cabeçalho <0>X-API-Key</0>."
 
 #: src/components/_layout/LayoutOptions.tsx:242
 msgid "App pattern"
@@ -1558,12 +1558,12 @@ msgstr "Padrão da aplicação"
 
 #: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
-msgstr "Taxa de aplicação"
+msgstr "Taxa de alistamento"
 
 #: src/components/_political/citizenshipApplication/CitizenshipApplicationForm.tsx:56
 #: src/pages/country/[countryId]/citizenship.tsx:44
 msgid "Apply"
-msgstr "Solicitar"
+msgstr "Enviar pedido"
 
 #: src/utils/translations.tsx:261
 msgid "Approved"
@@ -1792,7 +1792,7 @@ msgstr "Banners"
 #: src/components/_user/user/UserHeader.tsx:185
 #: src/components/_user/user/UserHeader.tsx:233
 msgid "Bans"
-msgstr "Banimentos"
+msgstr "Sanções"
 
 #: src/utils/translations.tsx:193
 msgid "Basic Boots"
@@ -1997,11 +1997,11 @@ msgstr "Caçador de Bugs"
 
 #: src/components/_economy/company/CompanyList.tsx:152
 msgid "Build a company"
-msgstr "Criar uma empresa"
+msgstr "Criar empresa"
 
 #: src/components/_military/mu/MuList.tsx:80
 msgid "Build a military unit"
-msgstr "Criar uma unidade militar"
+msgstr "Criar unidade militar"
 
 #: src/components/_military/mu/MuFormModal.tsx:133
 msgid "Build the military unit"
@@ -2112,7 +2112,7 @@ msgstr "Não pode ter aliados."
 
 #: src/components/_political/party/party.frontConfig.tsx:181
 msgid "Cannot have sworn enemies."
-msgstr "Não pode ter inimigos jurados."
+msgstr "Não pode definir países inimigos."
 
 #: src/components/_political/party/party.frontConfig.tsx:291
 msgid "Cannot pick a specialization good / no benefit from specialization."
@@ -2239,7 +2239,7 @@ msgstr "Cidadãos"
 
 #: src/pages/country/[countryId]/index.tsx:185
 msgid "Citizens get a bonus when fighting for allies, or against the sworn enemy"
-msgstr "Cidadãos recebem bónus quando lutam por aliados ou contra o inimigo jurado"
+msgstr "Cidadãos recebem bónus ao lutar por países aliados ou contra um país inimigo"
 
 #. placeholder {0}: formatPercent(ethicsBonuses.militarism[1].attackBattleBonus)
 #. placeholder {0}: formatPercent(ethicsBonuses.militarism[2].attackBattleBonus)
@@ -2253,7 +2253,7 @@ msgstr "Cidadãos ganham um bónus adicional  <0>{0}</0> de batalha de ataque."
 #: src/components/_political/party/party.frontConfig.tsx:127
 #: src/components/_political/party/party.frontConfig.tsx:142
 msgid "Citizens get an additional <0>{0}</0> battle bonus against sworn enemies."
-msgstr "Cidadãos ganham um bónus adicional <0>{0}</0> de batalha contra inimigos jurados."
+msgstr "Cidadãos recebem um bónus de combate adicional de <0>{0}</0> contra países inimigos."
 
 #. placeholder {0}: formatPercent(ethicsBonuses.isolationism[1].allyBattleBonus)
 #. placeholder {0}: formatPercent(ethicsBonuses.isolationism[2].allyBattleBonus)
@@ -2275,7 +2275,7 @@ msgstr "Cidadania"
 
 #: src/pages/country/[countryId]/citizenship.tsx:72
 msgid "Citizenship Applications"
-msgstr "Solicitações de cidadania"
+msgstr "Pedidos de cidadania"
 
 #: src/components/_military/battle/BattleSystem.tsx:347
 msgid "Civil war"
@@ -2646,7 +2646,7 @@ msgstr "Bónus de renda por desenvolvimento do país"
 
 #: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
-msgstr ""
+msgstr "Transferência entre países"
 
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:40
 msgid "Country Orders"
@@ -2684,7 +2684,7 @@ msgstr "Fabricar <0>{count}</0> itens"
 
 #: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
-msgstr "Fabricar item"
+msgstr "Equipamentos fabricados"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:166
 #: src/components/_user/apiToken/ApiTokenList.tsx:264
@@ -2702,7 +2702,7 @@ msgstr "Crie uma nova empresa"
 #: src/components/_political/party/PartyFormModal.tsx:80
 #: src/components/_political/party/PartyList.tsx:88
 msgid "Create a party"
-msgstr "Criar um partido"
+msgstr "Criar partido"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:240
 msgid "Create API Token"
@@ -2947,7 +2947,7 @@ msgstr "Definir um país como inimigo para receber bónus contra ele"
 #: src/components/_political/law/law.frontConfig.tsx:210
 #: src/components/_political/law/lawNames.tsx:24
 msgid "Define a sworn enemy"
-msgstr "Declarar um inimigo jurado"
+msgstr "Declarar inimigo"
 
 #: src/pages/user/[userId]/settings.tsx:94
 msgid "Delete account"
@@ -3070,7 +3070,7 @@ msgstr "Desmontar <0>{count}</0> itens"
 
 #: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
-msgstr "Desmontar item"
+msgstr "Equipamentos desmontados"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:153
 msgid "Dismiss"
@@ -3082,7 +3082,7 @@ msgstr "Distribuído"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:10
 msgid "Do you even know what luck is?"
-msgstr "Você sabe o que é sorte?"
+msgstr "Sabes sequer o que é sorte?"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:274
 #: src/components/_user/user/skills.frontConfig.tsx:144
@@ -3120,11 +3120,11 @@ msgstr "Doar <0>{count}</0> para a UM ou país"
 
 #: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
-msgstr "Doação"
+msgstr "Doações"
 
 #: src/components/_economy/donation/DonationList.tsx:60
 msgid "Donation Summary"
-msgstr "Sumário de Doação"
+msgstr "Balanço de doações"
 
 #: src/components/_political/country/CountryHeader.tsx:88
 #: src/pages/country/[countryId]/donations.tsx:17
@@ -4122,7 +4122,7 @@ msgstr "Inventário"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:162
 msgid "Invitations"
-msgstr ""
+msgstr "Convites"
 
 #: src/utils/translations.tsx:53
 msgid "Iron"
@@ -4151,7 +4151,7 @@ msgstr "Item comprado"
 
 #: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
-msgstr "Mercado de itens"
+msgstr "Equipamentos"
 
 #: src/components/_user/user/WealthPanel.tsx:49
 msgid "Items"
@@ -4201,7 +4201,7 @@ msgstr "Entre no chat do seu país!"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:156
 msgid "Joinable"
-msgstr ""
+msgstr "Públicos"
 
 #: src/components/_user/worker/WorkerItem.tsx:150
 msgid "Joined"
@@ -4209,7 +4209,7 @@ msgstr "Entrou"
 
 #: src/components/_economy/workOffer/WorkOfferList.tsx:130
 msgid "Joining a new job will make you leave your current one!"
-msgstr "Ao aceitar um novo emprego, irá sair do seu emprego atual!"
+msgstr "Mudar de emprego fará com que deixe o teu emprego atual!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:22
 msgid "Just 1 more..."
@@ -4221,11 +4221,11 @@ msgstr "O facto de algo não estar explicitamente indicado nas regras não signi
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:50
 msgid "Just one more… what could go wrong?"
-msgstr "Só mais uma… o que pode dar errado?"
+msgstr "Só mais uma… o que pode correr mal?"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:63
 msgid "Keep chasing that Mythic"
-msgstr "Continua em busca do Mítico"
+msgstr "Continua à procura do Mítico"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:174
 msgid "Keep fighting!"
@@ -4233,7 +4233,7 @@ msgstr "Continua a lutar!"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:201
 msgid "Keep in current company"
-msgstr "Manter na empresa atual"
+msgstr "Ficar na empresa atual"
 
 #: src/components/_military/mu/MuMemberList.tsx:428
 msgid "Kick"
@@ -5226,11 +5226,11 @@ msgstr "Nenhum indicador ainda"
 
 #: src/components/_user/user/UserEquippedSkins.tsx:139
 msgid "No skins equipped"
-msgstr "Nenhuma customização equipada"
+msgstr "Nenhuma skin equipada"
 
 #: src/pages/country/[countryId]/index.tsx:275
 msgid "No sworn enemy"
-msgstr "Sem inimigo jurado"
+msgstr "Nenhum país inimigo"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:44
 #: src/pages/market/index.tsx:127
@@ -5354,16 +5354,16 @@ msgstr "Abrir"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:208
 msgid "Open <0>{count}</0>"
-msgstr "Abrir <0>{count}</0>"
+msgstr "Abrir x<0>{count}</0>"
 
 #: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
 #: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
-msgstr "Abrir caixa"
+msgstr "Abrir"
 
 #: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
-msgstr "Abrir Caixa"
+msgstr "Caixas"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:206
 msgid "Open Cases"
@@ -5756,7 +5756,7 @@ msgstr "Fim da eleição primária"
 #. placeholder {0}: ethicsBonuses.militarism[2].warPriorityHours
 #: src/components/_political/party/party.frontConfig.tsx:107
 msgid "Priority from declaring wars or winning battles is <0>{0} hours</0> instead of 24."
-msgstr "Prioridade de declarar guerras ou vencer batalhas é <0>{0} horas<0/> invés de 24."
+msgstr "Prioridade de declarar guerras ou vencer batalhas é <0>{0} horas</0> em vez de 24."
 
 #: src/pages/index.tsx:142
 #: src/pages/rules.tsx:36
@@ -6266,11 +6266,11 @@ msgstr "Reputação adquirida!"
 
 #: src/components/_user/user/UserDropdown.tsx:335
 msgid "Request Phone Verification"
-msgstr "Solicitar Verificação de Telemóvel"
+msgstr "Pedir verificação de telemóvel"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:197
 msgid "Requests:"
-msgstr "Requisições:"
+msgstr "Pedidos API:"
 
 #: src/components/_user/mission/MissionItem.tsx:114
 msgid "Reroll Mission"
@@ -6278,11 +6278,11 @@ msgstr "Trocar missão"
 
 #: src/pages/user/[userId]/skills.tsx:166
 msgid "Reset"
-msgstr "Resetar"
+msgstr "Redistribuir"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:290
 msgid "Reset CAPTCHA"
-msgstr "Resetar CAPTCHA"
+msgstr "Gerar novo CAPTCHA"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:129
 msgid "Reset Survivor"
@@ -6294,7 +6294,7 @@ msgstr "Repor tutoriais"
 
 #: src/components/_user/user/UserDropdown.tsx:406
 msgid "Reset Username"
-msgstr "Resetar Nome"
+msgstr "Redefinir nome de utilizador"
 
 #: src/pages/region/[regionId]/index.tsx:109
 msgid "Reshuffle in"
@@ -7045,7 +7045,7 @@ msgstr "Comandante Supremo"
 
 #: src/pages/country/[countryId]/index.tsx:234
 msgid "Sworn enemy"
-msgstr "Inimigo jurado"
+msgstr "Inimigo"
 
 #: src/components/_political/event/EventList.tsx:72
 msgid "System revolt"
@@ -7480,12 +7480,12 @@ msgstr "Torneio ganho!"
 
 #: src/components/_economy/market/MarketHeader.tsx:20
 msgid "Trade"
-msgstr "Trocar"
+msgstr "Comércio"
 
 #: src/components/_economy/transaction/TransactionList.tsx:71
 #: src/pages/market/index.tsx:56
 msgid "Trading"
-msgstr "Negociação"
+msgstr "Comércio"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1966
 msgid "Trading transaction"
@@ -7615,7 +7615,7 @@ msgstr "Desmarcar tudo"
 #: src/components/_political/law/law.frontConfig.tsx:366
 #: src/components/_political/law/law.frontConfig.tsx:368
 msgid "Unset the sworn enemy country"
-msgstr "Remover o país inimigo jurado"
+msgstr "Remover país inimigo"
 
 #. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
 #: src/components/_user/premium/PremiumFeatureList.tsx:142
@@ -7940,7 +7940,7 @@ msgstr "Aguardando o trabalhador aceitar ou rejeitar a redução salarial. Você
 
 #: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
-msgstr "quer"
+msgstr "compra"
 
 #: src/components/_political/event/EventList.tsx:62
 msgid "War declared"
@@ -8594,7 +8594,7 @@ msgstr "Nome da sua unidade militar"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
-msgstr "A tua MU tem <0/> de reputação e não pode licitar em contratos de mercenários. Paga para recuperar reputação (uma vez por dia)."
+msgstr "A tua MU tem <0/> de reputação e não pode licitar em contratos mercenários. Paga para recuperar reputação (uma vez por dia)."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:226
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
